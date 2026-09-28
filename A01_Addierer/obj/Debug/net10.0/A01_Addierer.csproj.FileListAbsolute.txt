@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/bin/Debug/net10.0/A01_Addierer
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/bin/Debug/net10.0/A01_Addierer.deps.json
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/bin/Debug/net10.0/A01_Addierer.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/bin/Debug/net10.0/A01_Addierer.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/bin/Debug/net10.0/A01_Addierer.pdb
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/refint/A01_Addierer.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.pdb
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/ref/A01_Addierer.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A01_Addierer/obj/Debug/net10.0/A01_Addierer.sourcelink.json

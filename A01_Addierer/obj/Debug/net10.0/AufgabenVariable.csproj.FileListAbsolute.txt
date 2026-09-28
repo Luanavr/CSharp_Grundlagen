@@ -1,0 +1,14 @@
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/bin/Debug/net10.0/AufgabenVariable
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/bin/Debug/net10.0/AufgabenVariable.deps.json
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/bin/Debug/net10.0/AufgabenVariable.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/bin/Debug/net10.0/AufgabenVariable.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/bin/Debug/net10.0/AufgabenVariable.pdb
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/refint/AufgabenVariable.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.pdb
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/AufgabenVariable.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/AufgabenVariable/obj/Debug/net10.0/ref/AufgabenVariable.dll

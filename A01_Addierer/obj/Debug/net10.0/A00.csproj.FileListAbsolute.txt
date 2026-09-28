@@ -1,0 +1,14 @@
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/bin/Debug/net10.0/A00
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/bin/Debug/net10.0/A00.deps.json
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/bin/Debug/net10.0/A00.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/bin/Debug/net10.0/A00.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/bin/Debug/net10.0/A00.pdb
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/refint/A00.dll
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.pdb
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/A00.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/BLJ Aufgaben CSharp/A00/obj/Debug/net10.0/ref/A00.dll
