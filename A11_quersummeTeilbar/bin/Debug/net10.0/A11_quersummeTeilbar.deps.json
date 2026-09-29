@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "A11_quersummeTeilbar/1.0.0": {
+        "runtime": {
+          "A11_quersummeTeilbar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A11_quersummeTeilbar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

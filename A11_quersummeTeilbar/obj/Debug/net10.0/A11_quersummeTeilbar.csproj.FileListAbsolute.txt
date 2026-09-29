@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/bin/Debug/net10.0/A11_quersummeTeilbar
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/bin/Debug/net10.0/A11_quersummeTeilbar.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/bin/Debug/net10.0/A11_quersummeTeilbar.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/bin/Debug/net10.0/A11_quersummeTeilbar.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/bin/Debug/net10.0/A11_quersummeTeilbar.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/refint/A11_quersummeTeilbar.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/A11_quersummeTeilbar.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A11_quersummeTeilbar/obj/Debug/net10.0/ref/A11_quersummeTeilbar.dll
