@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/bin/Debug/net10.0/A09_binZahlAnzeigen
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/bin/Debug/net10.0/A09_binZahlAnzeigen.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/bin/Debug/net10.0/A09_binZahlAnzeigen.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/bin/Debug/net10.0/A09_binZahlAnzeigen.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/bin/Debug/net10.0/A09_binZahlAnzeigen.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/refint/A09_binZahlAnzeigen.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/A09_binZahlAnzeigen.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A09_binZahlAnzeigen/obj/Debug/net10.0/ref/A09_binZahlAnzeigen.dll

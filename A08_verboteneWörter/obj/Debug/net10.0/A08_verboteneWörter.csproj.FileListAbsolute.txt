@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/bin/Debug/net10.0/A08_verboteneWörter
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/bin/Debug/net10.0/A08_verboteneWörter.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/bin/Debug/net10.0/A08_verboteneWörter.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/bin/Debug/net10.0/A08_verboteneWörter.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/bin/Debug/net10.0/A08_verboteneWörter.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/refint/A08_verboteneWörter.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/A08_verboteneWörter.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A08_verboteneWörter/obj/Debug/net10.0/ref/A08_verboteneWörter.dll

@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/bin/Debug/net10.0/A07_teilbarkeitDurch3undOder5
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/bin/Debug/net10.0/A07_teilbarkeitDurch3undOder5.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/bin/Debug/net10.0/A07_teilbarkeitDurch3undOder5.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/bin/Debug/net10.0/A07_teilbarkeitDurch3undOder5.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/bin/Debug/net10.0/A07_teilbarkeitDurch3undOder5.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/refint/A07_teilbarkeitDurch3undOder5.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/A07_teilbarkeitDurch3undOder5.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A07_teilbarkeitDurch3undOder5/obj/Debug/net10.0/ref/A07_teilbarkeitDurch3undOder5.dll

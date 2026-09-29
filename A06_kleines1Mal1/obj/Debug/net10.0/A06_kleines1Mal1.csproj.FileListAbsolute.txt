@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/bin/Debug/net10.0/A06_kleines1Mal1
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/bin/Debug/net10.0/A06_kleines1Mal1.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/bin/Debug/net10.0/A06_kleines1Mal1.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/bin/Debug/net10.0/A06_kleines1Mal1.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/bin/Debug/net10.0/A06_kleines1Mal1.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/refint/A06_kleines1Mal1.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/A06_kleines1Mal1.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A06_kleines1Mal1/obj/Debug/net10.0/ref/A06_kleines1Mal1.dll
