@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A09_binZahlAnzeigen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f1753bde489fa04ddac429808e1189198e74fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+053468cadaeea64627b4e48b8d1512fe1d9fb215")]
 [assembly: System.Reflection.AssemblyProductAttribute("A09_binZahlAnzeigen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A09_binZahlAnzeigen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

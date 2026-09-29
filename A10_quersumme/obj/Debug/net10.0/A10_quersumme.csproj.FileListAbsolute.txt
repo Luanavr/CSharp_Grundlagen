@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/bin/Debug/net10.0/A10_quersumme
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/bin/Debug/net10.0/A10_quersumme.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/bin/Debug/net10.0/A10_quersumme.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/bin/Debug/net10.0/A10_quersumme.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/bin/Debug/net10.0/A10_quersumme.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/refint/A10_quersumme.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/A10_quersumme.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A10_quersumme/obj/Debug/net10.0/ref/A10_quersumme.dll

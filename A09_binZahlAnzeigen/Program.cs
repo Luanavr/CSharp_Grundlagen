@@ -21,7 +21,8 @@ class Program
                     bin = rest + bin;
                     newValue = zahlInt / 2;
                     zahlInt = newValue;
-                } while (zahlInt != 0);
+                } 
+                while (zahlInt != 0);
 
                 Console.WriteLine(bin);
                 bin = "";
