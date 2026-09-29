@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "A13_drawLine/1.0.0": {
+        "runtime": {
+          "A13_drawLine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A13_drawLine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

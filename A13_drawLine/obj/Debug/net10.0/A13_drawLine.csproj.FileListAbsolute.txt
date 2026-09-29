@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/bin/Debug/net10.0/A13_drawLine
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/bin/Debug/net10.0/A13_drawLine.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/bin/Debug/net10.0/A13_drawLine.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/bin/Debug/net10.0/A13_drawLine.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/bin/Debug/net10.0/A13_drawLine.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/refint/A13_drawLine.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/A13_drawLine.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A13_drawLine/obj/Debug/net10.0/ref/A13_drawLine.dll
