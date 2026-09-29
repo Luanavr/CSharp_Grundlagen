@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "A05_Flussdiagramm_02/1.0.0": {
+        "runtime": {
+          "A05_Flussdiagramm_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A05_Flussdiagramm_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

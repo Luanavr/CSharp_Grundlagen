@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/bin/Debug/net10.0/nameOfMonths
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/bin/Debug/net10.0/nameOfMonths.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/bin/Debug/net10.0/nameOfMonths.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/bin/Debug/net10.0/nameOfMonths.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/bin/Debug/net10.0/nameOfMonths.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/refint/nameOfMonths.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/nameOfMonths.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/nameOfMonths/obj/Debug/net10.0/ref/nameOfMonths.dll

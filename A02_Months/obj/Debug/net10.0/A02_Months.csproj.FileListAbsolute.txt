@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/bin/Debug/net10.0/A02_Months
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/bin/Debug/net10.0/A02_Months.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/bin/Debug/net10.0/A02_Months.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/bin/Debug/net10.0/A02_Months.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/bin/Debug/net10.0/A02_Months.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/refint/A02_Months.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/A02_Months.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A02_Months/obj/Debug/net10.0/ref/A02_Months.dll
