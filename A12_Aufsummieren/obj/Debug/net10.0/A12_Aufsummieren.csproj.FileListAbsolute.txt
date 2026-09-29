@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/bin/Debug/net10.0/A12_Aufsummieren
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/bin/Debug/net10.0/A12_Aufsummieren.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/bin/Debug/net10.0/A12_Aufsummieren.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/bin/Debug/net10.0/A12_Aufsummieren.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/bin/Debug/net10.0/A12_Aufsummieren.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/refint/A12_Aufsummieren.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/A12_Aufsummieren.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A12_Aufsummieren/obj/Debug/net10.0/ref/A12_Aufsummieren.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "A12_Aufsummieren/1.0.0": {
+        "runtime": {
+          "A12_Aufsummieren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A12_Aufsummieren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
