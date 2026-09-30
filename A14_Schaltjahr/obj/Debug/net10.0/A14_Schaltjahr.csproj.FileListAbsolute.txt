@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/bin/Debug/net10.0/A14_Schaltjahr
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/bin/Debug/net10.0/A14_Schaltjahr.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/bin/Debug/net10.0/A14_Schaltjahr.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/bin/Debug/net10.0/A14_Schaltjahr.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/bin/Debug/net10.0/A14_Schaltjahr.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/refint/A14_Schaltjahr.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/A14_Schaltjahr.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A14_Schaltjahr/obj/Debug/net10.0/ref/A14_Schaltjahr.dll

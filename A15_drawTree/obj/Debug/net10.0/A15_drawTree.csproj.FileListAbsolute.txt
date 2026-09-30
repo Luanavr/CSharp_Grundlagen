@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/bin/Debug/net10.0/A15_drawTree
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/bin/Debug/net10.0/A15_drawTree.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/bin/Debug/net10.0/A15_drawTree.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/bin/Debug/net10.0/A15_drawTree.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/bin/Debug/net10.0/A15_drawTree.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/refint/A15_drawTree.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/A15_drawTree.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A15_drawTree/obj/Debug/net10.0/ref/A15_drawTree.dll

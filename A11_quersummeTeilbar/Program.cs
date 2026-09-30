@@ -39,7 +39,6 @@ class Program
         {
             if (quersummeDurchZahl(i) != 0)
             {
-                
                 Console.Write($"{i}\t");
                 Console.Write($" {BerechneQuersumme(i)}\t\t");
                 Console.Write($" {quersummeDurchZahl(i)}\t");
