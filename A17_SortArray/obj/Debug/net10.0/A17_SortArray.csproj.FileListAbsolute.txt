@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/bin/Debug/net10.0/A17_SortArray
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/bin/Debug/net10.0/A17_SortArray.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/bin/Debug/net10.0/A17_SortArray.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/bin/Debug/net10.0/A17_SortArray.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/bin/Debug/net10.0/A17_SortArray.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/refint/A17_SortArray.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/A17_SortArray.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A17_SortArray/obj/Debug/net10.0/ref/A17_SortArray.dll

@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/bin/Debug/net10.0/A16_GuessNumbers
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/bin/Debug/net10.0/A16_GuessNumbers.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/bin/Debug/net10.0/A16_GuessNumbers.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/bin/Debug/net10.0/A16_GuessNumbers.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/bin/Debug/net10.0/A16_GuessNumbers.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/refint/A16_GuessNumbers.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/A16_GuessNumbers.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A16_GuessNumbers/obj/Debug/net10.0/ref/A16_GuessNumbers.dll

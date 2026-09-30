@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/bin/Debug/net10.0/A18_yourAge
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/bin/Debug/net10.0/A18_yourAge.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/bin/Debug/net10.0/A18_yourAge.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/bin/Debug/net10.0/A18_yourAge.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/bin/Debug/net10.0/A18_yourAge.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/refint/A18_yourAge.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/A18_yourAge.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A18_yourAge/obj/Debug/net10.0/ref/A18_yourAge.dll

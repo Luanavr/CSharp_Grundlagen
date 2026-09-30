@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/bin/Debug/net10.0/A19_countVokale
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/bin/Debug/net10.0/A19_countVokale.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/bin/Debug/net10.0/A19_countVokale.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/bin/Debug/net10.0/A19_countVokale.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/bin/Debug/net10.0/A19_countVokale.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/refint/A19_countVokale.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/A19_countVokale.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A19_countVokale/obj/Debug/net10.0/ref/A19_countVokale.dll
