@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/bin/Debug/net10.0/A20_calculator
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/bin/Debug/net10.0/A20_calculator.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/bin/Debug/net10.0/A20_calculator.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/bin/Debug/net10.0/A20_calculator.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/bin/Debug/net10.0/A20_calculator.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/refint/A20_calculator.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/A20_calculator.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A20_calculator/obj/Debug/net10.0/ref/A20_calculator.dll
