@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A13_drawLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b715392c8821c55084a33933f0f25197e131c5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50635c16242af44c12fef3a9a5b35d4a8012f79f")]
 [assembly: System.Reflection.AssemblyProductAttribute("A13_drawLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A13_drawLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

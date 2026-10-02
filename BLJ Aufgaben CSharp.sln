@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A19_countVokale", "A19_coun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A20_calculator", "A20_calculator\A20_calculator.csproj", "{CA0DBAC4-07DC-482C-B1D7-A33AB8E8A4F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A21_zusatzJokes", "A21_zusatzJokes\A21_zusatzJokes.csproj", "{E0975731-8D50-4009-88B1-06F555D161F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A22_Memory", "A22_Memory\A22_Memory.csproj", "{47F4063A-47F3-4DCF-A06E-ECD1956DFC9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{CA0DBAC4-07DC-482C-B1D7-A33AB8E8A4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0DBAC4-07DC-482C-B1D7-A33AB8E8A4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0DBAC4-07DC-482C-B1D7-A33AB8E8A4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0975731-8D50-4009-88B1-06F555D161F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0975731-8D50-4009-88B1-06F555D161F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0975731-8D50-4009-88B1-06F555D161F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0975731-8D50-4009-88B1-06F555D161F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F4063A-47F3-4DCF-A06E-ECD1956DFC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F4063A-47F3-4DCF-A06E-ECD1956DFC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F4063A-47F3-4DCF-A06E-ECD1956DFC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F4063A-47F3-4DCF-A06E-ECD1956DFC9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

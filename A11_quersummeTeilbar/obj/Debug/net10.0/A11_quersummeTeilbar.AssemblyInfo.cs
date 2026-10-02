@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A11_quersummeTeilbar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea1ec243fabef009429302ff4ed2b555a16d63c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50635c16242af44c12fef3a9a5b35d4a8012f79f")]
 [assembly: System.Reflection.AssemblyProductAttribute("A11_quersummeTeilbar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A11_quersummeTeilbar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

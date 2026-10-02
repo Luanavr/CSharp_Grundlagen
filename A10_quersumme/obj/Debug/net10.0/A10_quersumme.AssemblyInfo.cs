@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A10_quersumme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+617571466e87ac81275e9ab2537d7b060b412258")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50635c16242af44c12fef3a9a5b35d4a8012f79f")]
 [assembly: System.Reflection.AssemblyProductAttribute("A10_quersumme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A10_quersumme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

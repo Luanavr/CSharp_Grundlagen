@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUFT37hRulU=",
+  "success": true,
+  "projectFilePath": "/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A21_zusatzJokes/A21_zusatzJokes.csproj",
+  "expectedPackageFiles": [
+    "/Users/lvonrotz/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

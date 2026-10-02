@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A07_teilbarkeitDurch3undOder5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f1753bde489fa04ddac429808e1189198e74fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50635c16242af44c12fef3a9a5b35d4a8012f79f")]
 [assembly: System.Reflection.AssemblyProductAttribute("A07_teilbarkeitDurch3undOder5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A07_teilbarkeitDurch3undOder5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

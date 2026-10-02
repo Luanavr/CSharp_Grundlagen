@@ -1,0 +1,15 @@
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/bin/Debug/net10.0/A22_Memory
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/bin/Debug/net10.0/A22_Memory.deps.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/bin/Debug/net10.0/A22_Memory.runtimeconfig.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/bin/Debug/net10.0/A22_Memory.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/bin/Debug/net10.0/A22_Memory.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.AssemblyInfoInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.AssemblyInfo.cs
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.csproj.CoreCompileInputs.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.sourcelink.json
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/refint/A22_Memory.dll
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.pdb
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/A22_Memory.genruntimeconfig.cache
+/Users/lvonrotz/RiderProjects/CSharp_Grundlagen/A22_Memory/obj/Debug/net10.0/ref/A22_Memory.dll
