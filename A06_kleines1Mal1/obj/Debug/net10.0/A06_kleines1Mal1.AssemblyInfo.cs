@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A06_kleines1Mal1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7374a91d45fbb0521be2e99f25b8758e9f87a0b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0748d73843dec30781fbfa52dbaa78905b837f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("A06_kleines1Mal1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A06_kleines1Mal1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
